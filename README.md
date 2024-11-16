@@ -30,11 +30,3 @@ A dynamic weather app that allows users to fetch real-time weather data based on
 3. **Error and Loading States**:  
    - Handles different error scenarios such as denied location permissions, network errors, and invalid city names.
    - Shows a loading screen while fetching data and replaces it with the data or error message accordingly.
-
-## Installation ⚙️
-
-To set up the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mkraj-7838/Weather-App.git
