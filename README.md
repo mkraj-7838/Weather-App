@@ -2,6 +2,10 @@
 
 A dynamic weather app that allows users to fetch real-time weather data based on their current location or any city worldwide. The app is built using JavaScript, HTML, CSS, and the OpenWeather API.
 
+![Weather App ScreenShots-1](image1.png)
+![Weather App ScreenShots-2](image2.png)
+
+
 ## Features 🚀
 
 - **Current Location Weather**: Fetches weather data based on the user's geolocation, providing real-time data for the current area.
